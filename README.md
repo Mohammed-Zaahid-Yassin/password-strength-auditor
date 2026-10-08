@@ -35,7 +35,7 @@ A Python command-line tool that evaluates password strength using password-polic
 Clone the repository:
 
 ```bash
-git clone [https://github.com/YOUR-GITHUB-USERNAME/password-strength-auditor.git](https://github.com/YOUR-GITHUB-USERNAME/password-strength-auditor.git)
+git clone [https://github.com/Mohammed-Zaahid-Yassin/password-strength-auditor.git]
 cd password-strength-auditor
 ```
 
